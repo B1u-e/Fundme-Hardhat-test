@@ -1,0 +1,7 @@
+{
+	"editor.tabCompletion": "off",
+	"workbench.editor.pinnedTabsOnSeparateRow": true,
+	"prettier.useTabs": true,
+	"gitlens.views.openChangesInMultiDiffEditor": true,
+	"gitlens.launchpad.allowMultiple": false
+}
